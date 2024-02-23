@@ -1,0 +1,9 @@
+.menu-bar__itens{
+  display: flex;
+  flex-direction: row;
+}
+
+.menu-bar__itens > li{
+  margin-right: 20px;
+  list-style: none;
+}
